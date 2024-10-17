@@ -1,0 +1,36 @@
+.viernes {
+    font-family: "Creepster", system-ui;
+    font-weight: 700;
+    font-style: normal;
+    filter: drop-shadow(0px 5px 0px rgba(255, 227, 227, 0.846));
+    background: linear-gradient( to bottom , #891d02, #f53131);
+    background-clip: content-box;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 50px;
+    font-weight: bold;
+    
+  }
+  
+  
+  .viernes2 { 
+     filter: drop-shadow(0px 5px 0px rgba(23, 20, 20, 0.846));
+        background: linear-gradient( to bottom , #ed4116, #830d0d);
+        background-clip: content-box;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        font-size: 35px;
+        font-weight: bold;
+  }
+  .fredy{
+    font-family: "Covered By Your Grace", cursive;
+    font-weight: 700;
+    font-style: normal;
+  }
+  .dracula {
+    
+      font-family: "Luckiest Guy", cursive;
+      font-weight: 400;
+      font-style: normal;
+    }
+  
