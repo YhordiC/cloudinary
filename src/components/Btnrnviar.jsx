@@ -10,7 +10,7 @@ export default function BtnEnviar() {
   const CloudName = import.meta.env.VITE_CLOUD_NAME;
   const CloudApp = import.meta.env.VITE_CLOUD_APLICATION;
 
-  const [publicId, setPublicId] = useState("midu_wknrim");
+  const [publicId, setPublicId] = useState("pexels-sungwoo-park-774864686-28994680_lxazny");
   // Replace with your own cloud name
   const [cloudName] = useState(CloudName);
   // Replace with your own upload preset
