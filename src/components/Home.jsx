@@ -34,7 +34,7 @@ export default function Home() {
         </div>
     </div>
     <button onClick={() =>{
-      navigate("/home/aplicacion")
+      navigate("/aplicacion")
     }}
      className='mt-4 flex gap-3 items-center mx-auto'>Probar Outfit
          <Calabaza className={"fill-orange-500 hover:drop-shadow-[0_0_11px_#66efffe0]"}/></button>

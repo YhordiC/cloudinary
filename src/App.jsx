@@ -14,8 +14,8 @@ const App = () => {
         fontStyle: "normal"
        }}>
         <ul className='  flex justify-evenly'>
-          <li><Link className=' text-white' to={'/home'}>HOME</Link></li>
-          <li> <Link className=' text-white' to={'/home/aplicacion'}>APLICACIÓN</Link></li>
+          <li><Link className=' text-white' to={'/'}>HOME</Link></li>
+          <li> <Link className=' text-white' to={'/aplicacion'}>APLICACIÓN</Link></li>
           <li ><a className='text-white' href="#contactos">CONTACTOS</a></li>
         </ul>
       </nav>

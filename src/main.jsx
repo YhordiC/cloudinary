@@ -10,7 +10,7 @@ import BtnEnviar from './components/Btnrnviar.jsx'
 import Home from './components/Home.jsx'
 const router = createBrowserRouter([
   {
-    path: '/home',
+    path: '/',
     element: <App/>,
     children:[
       {path: "", 
