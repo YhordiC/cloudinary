@@ -30,16 +30,16 @@ const App = () => {
       <h6 id='contactos'>Contactos</h6>
       <ul className='text-2xs flex gap-4 justify-center items-center'>
         <li>
-          <Link to={'https://www.linkedin.com/in/yhordi-code/'} target='_blank' className='hover:text-sky-400 '>LinkedIn</Link>
+          <a href='https://www.linkedin.com/in/yhordi-code/' target='_blank' className='hover:text-sky-400 '>LinkedIn</a>
         </li>
         <li>
-          <Link to={'https://github.com/YhordiC'} target='_blank' className='hover:text-white'>Github</Link>
+          <a href='https://github.com/YhordiC' target='_blank' className='hover:text-white'>Github</a>
         </li>
         <li>
-          <Link to={'https://x.com/yhordidev'} target='_blank' className='hover:text-white'>Twitter</Link>
+          <a  href='https://x.com/yhordidev' target='_blank' className='hover:text-white'>Twitter</a>
         </li>
         <li>
-          <Link to={'https://www.youtube.com/@YhordiDev'} target='_blank' className='hover:text-red-400'>YouTube</Link>
+          <a href='https://www.youtube.com/@YhordiDev' target='_blank' className='hover:text-red-400'>YouTube</a>
         </li>
       </ul>
     </div>
