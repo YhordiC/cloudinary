@@ -28,9 +28,9 @@ const App = () => {
   <footer className='bg-black py-3 w-full text-center'>
     <div>
       <h6 id='contactos'>Contactos</h6>
-      <ul className='text-xs flex gap-4 justify-center'>
+      <ul className='text-xs flex gap-4 justify-center items-center'>
         <li>
-          <Link to={'https://www.linkedin.com/in/yhordi-code/'} target='_blank' className='hover:text-sky-400'>LinkedIn</Link>
+          <Link to={'https://www.linkedin.com/in/yhordi-code/'} target='_blank' className='hover:text-sky-400 '>LinkedIn</Link>
         </li>
         <li>
           <Link to={'https://github.com/YhordiC'} target='_blank' className='hover:text-white'>Github</Link>
